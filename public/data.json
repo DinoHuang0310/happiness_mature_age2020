@@ -1,0 +1,140 @@
+{
+    "about": "<br><h3>夢想‧樂活‧美好告別</h3><p>退休，是一生中真正快樂做自己，成就人生第二高峰的圓滿。</p><br><p>第四屆幸福熟齡臺日交流論壇，特邀日本抗老醫學權威及臺灣實踐樂活的成功名人，從嶄新角度分享<strong>放膽熟齡</strong>的應用方程式，教你大膽活出比工作還要精彩百倍的黃金人生。</p>",
+    "spotlight": [],
+    "speakers": [{
+            "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers_main.png",
+            "position": "日本熟齡醫學權威",
+            "name": "白澤卓二",
+            "description": [
+                "醫學博士，白澤抗老醫學研究所所長、御茶水健康長壽診所院長。",
+                "1982年自千葉大學醫學部畢業，曾任東京都老人綜合研究所老化基因組生物標記研究團隊召集人，2007年至2015年擔任順天堂大學研究所醫學研究科抗老醫學講座教授。",
+                "專長為長壽基因的分子遺傳學、阿茲海默症的分子生物學等。常受邀於日本各媒體發表，以淺顯易懂的醫學解說博得好評。著作及監修書籍超過300本，如：《日本抗老名醫教你如何打造「健康不老的身體」》、《手指體操：動動手指不失智！活到100歲都頭腦明晰》、《第一本專為中高齡寫的不失智活腦書：日本抗老生酮名醫教你掌握4關鍵，打造不健忘、不痴呆的逆齡大腦》。"
+            ]
+        },
+        {
+            "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers03.png",
+            "position": "長春藤預防醫學健康管理總院長",
+            "name": "張武修",
+            "description": [
+                "張院長曾擔任衛生署駐歐盟代表、美國國家衛生院的參訪科學家，熟悉南向醫療政策，到越南、印尼多次進行醫學交流，國內外教學經驗相當豐富。",
+                "踏遍世界的院長，心中最想守護的仍是台灣這塊土地和大眾的健康，多年來在推動公共衛生、長照醫療和提升大眾的健康識能，一路堅持只做對的事，張院長分享：「好的醫療照護應該是從教大家如何依據自身狀況，來預防疾病，以及避免疾病的惡化與復發，這也正是長春藤醫療體系一直在推動的個人化預防醫學觀念。」"
+            ]
+        },
+        {
+            "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers01.png",
+            "position": "知名理財作家",
+            "name": "施昇輝",
+            "description": [
+                "台大商學系畢業，曾在雜誌業、百貨業任職，但主要職涯是15年的證券承銷經歷。2003年離開職場，成為專職投資人。",
+                "他是最具文青氣息的理財暢銷作家，出版了多10多本暢銷書籍；他從不以「理財專家」自居，喜歡大家以「樂活大叔」來稱呼他。",
+                "走過了為家人、為將來努力打拼的前半生，施昇輝主張這時不要再做「該做」的事，只要做「想做」的事，並希望協助大家開展一個有意義、有成就感，完全屬於自己的第三人生。"
+            ]
+        },
+        {
+            "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers02.png",
+            "position": "臺北市立聯合醫院總院長",
+            "name": "黃勝堅",
+            "description": [
+                "黃勝堅醫師是神經重症專家。歷年來推廣器官捐贈、安寧療護、病人自主權利法、社區居家整合照護及醫養結合等不餘遺力，於2015年1月起接掌臺北市立聯合醫院。上任後，建構社區整合照護服務模式，並於2017年榮獲國發會第一屆政府服務獎、2018年獲得SNQ國家生技醫療品質獎銅獎，深獲肯定。",
+                "黃總院長將照護經驗結成書集，《生死謎藏》、《夕陽山外山》、《紅色的小行李箱》與《長照》。其中《生死謎藏》更榮獲「開卷獎」、「金鼎獎」。"
+            ]
+        }
+    ],
+    "formState": {
+        "active": true,
+        "successMessage": "報名成功！",
+        "closeMessage": "<p>報名額滿，感謝熱烈支持！</p>",
+        "alert": [
+            "免費論壇、座位有限，請儘早報名",
+            "本論壇全程免費，活動前三天將以簡訊發送活動報名序號，當日憑序號報到。",
+            "為配合防疫守護健康，參與本論壇之貴賓於活動期間，請全程配戴醫療級口罩，同時請於活動報到當天協助主辦單位填寫健康聲明書及進行體溫測量，若有發燒或不符合防疫規定者，恕無法入場。",
+            "中午不供餐，中午休息時間將進行環境清場整理。",
+            "如遇不可抗力突發因素或配合防疫規定，主辦單位保留變更活動議程及講者之權利，依官網公告為準。"
+        ]
+    },
+    "exhibitor": [{
+        "title": "長春藤預防醫學健康管理",
+        "description": "專業醫療及技術團隊，透過各項專業檢測，結合四大領域：疾病預防、飲食管理、健康管理及身心管理，提供精準個人化健康照護計畫。五大療程服務：精準醫學、SRF優適骨、逆糖減脂、樂活保健、醫學美容，強調讓預防凌駕於治療，如同健康管家一樣給予全方位關懷。"
+    }],
+    "slider": [{
+            "title": "若每天睡到自然醒、看電視發呆，那幹嘛退休？學會5件事，玩出全新第二人生",
+            "url": "https://pse.is/wbt82",
+            "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/101072/2020.04.24-3.jpg_1140x855.jpg"
+        },
+        {
+            "title": "今天開始，經營你的退休生活！獨立到老、不依賴子女，50歲後一定要做的8件事",
+            "url": "https://pse.is/wfekd",
+            "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/100056/060401.jpg_1140x855.jpg"
+        },
+        {
+            "title": "她看似幸福無缺，怎麼還會這麼焦慮？擁有幸福快樂人生，從改變4個日常開始",
+            "url": "https://pse.is/w7tu9",
+            "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/104159/shutterstock_498664765.jpg_1140x855.jpg"
+        },
+        {
+            "title": "退休金700萬就夠用！江育誠：我用「0056＋勞保老年年金」，打造每月5萬生活費",
+            "url": "https://pse.is/vhqvg",
+            "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/102087/Untitled.jpg_1140x855.jpg"
+        },
+        {
+            "title": "退休後要過得好，中年男子要拉緊老婆的衣角！李偉文：結婚超過20年，少「溝通」感情才會好",
+            "url": "https://pse.is/v3f9e",
+            "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/100690/69427996_2512673888790239_3971120663028039680_o.jpg_1140x855.jpg"
+        }
+    ],
+    "agencys": [{
+            "title": "主辦單位",
+            "list": [{
+                    "title": "今周刊",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype1-01.png",
+                    "url": "https://www.businesstoday.com.tw/"
+                },
+                {
+                    "title": "幸福熟齡",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype1-02.png",
+                    "url": "https://thebetteraging.businesstoday.com.tw/"
+                }
+            ]
+        },
+        {
+            "title": "指導單位",
+            "list": [{
+                "title": "勞動力發展署",
+                "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype2-01.png",
+                "url": ""
+            }]
+        },
+        {
+            "title": "幸福夥伴",
+            "list": [{
+                "title": "工研院",
+                "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype3-01.png",
+                "url": ""
+            }]
+        },
+        {
+            "title": "共好夥伴",
+            "list": [{
+                    "title": "媚登峰",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-04.png",
+                    "url": ""
+                },
+                {
+                    "title": "長春藤",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-05.png",
+                    "url": ""
+                },
+                {
+                    "title": "台灣顏面針灸醫學會",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-06.png",
+                    "url": ""
+                },
+                {
+                    "title": "大人樣",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-07.png",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}
