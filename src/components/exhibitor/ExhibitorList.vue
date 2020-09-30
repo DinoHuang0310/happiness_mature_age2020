@@ -3,7 +3,6 @@
     :class="showDetails ? 'exhibitor-list active' : 'exhibitor-list'"
     @mouseover="handleMouseover"
     @mouseleave="handleMouseleave"
-    @click="handleClick"
   >
     <div>
       <article>
@@ -28,7 +27,12 @@ export default {
   },
   data() {
     return {
-      showDetails: false
+      showDetails: this.isMobile ? true : false
+    }
+  },
+  watch: {
+    isMobile: function(isMobile) {
+      this.showDetails = isMobile ? true : false;
     }
   },
   methods: {
@@ -38,9 +42,9 @@ export default {
     handleMouseleave() {
       if(!this.isMobile) this.showDetails = false;
     },
-    handleClick() {
-      if(this.isMobile) this.showDetails = !this.showDetails;
-    }
+    // handleClick() {
+    //   if(this.isMobile) this.showDetails = !this.showDetails;
+    // }
   }
 }
 </script>
