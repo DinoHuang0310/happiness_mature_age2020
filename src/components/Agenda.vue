@@ -17,7 +17,6 @@
         </table>
         <ul>
           <li>※最新議程資訊，敬請鎖定本活動官網</li>
-          <li>※如遇不可抗力或突發因素或配合防疫規定，主辦單位保留變更活動議程及講者之權利，依官網公告為準。</li>
         </ul>
       </div>
     </div>
@@ -62,6 +61,9 @@ export default {
 }
 .agenda-table td {
   padding: 0.8em;
+}
+.agenda-table td[colspan="2"] {
+  text-align: center;
 }
 .agenda-table td span {
   display: inline-block;

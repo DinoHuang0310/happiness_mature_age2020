@@ -3,6 +3,7 @@
     <div class="wrapper">
       <div class="title">
         <h2><span>講</span>者</h2>
+        <p>*順序依議程表排列</p>
       </div>
       <ul class="other-speakers">
         <SpeakersDetails
