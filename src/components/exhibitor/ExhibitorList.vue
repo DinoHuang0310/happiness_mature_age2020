@@ -37,10 +37,10 @@ export default {
   },
   methods: {
     handleMouseover() {
-      if(!this.isMobile) this.showDetails = true;
+      if(!this.isMobile && this.exhibitor.description) this.showDetails = true;
     },
     handleMouseleave() {
-      if(!this.isMobile) this.showDetails = false;
+      if(!this.isMobile && this.exhibitor.description) this.showDetails = false;
     },
     // handleClick() {
     //   if(this.isMobile) this.showDetails = !this.showDetails;
