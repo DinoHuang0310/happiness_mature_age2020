@@ -1,5 +1,5 @@
 {
-    "about": "<br><h3>夢想‧樂活‧美好告別</h3><p>退休，是一生中真正快樂做自己，成就人生第二高峰的圓滿。</p><br><p>第四屆幸福熟齡臺日交流論壇，特邀日本抗老醫學權威及臺灣實踐樂活的成功名人，從嶄新角度分享<strong>放膽熟齡</strong>的應用方程式，教你大膽活出比工作還要精彩百倍的黃金人生。</p>",
+    "about": "<br><h3>夢想‧樂活‧美好告別</h3><p>退休，是一生中真正快樂做自己，成就人生第二高峰的圓滿。</p><br><p>第四屆幸福熟齡臺日交流論壇，特邀日本熟齡醫學權威及臺灣實踐樂活的成功名人，從嶄新角度分享<strong>放膽熟齡</strong>的應用方程式，教你大膽活出比工作還要精彩百倍的黃金人生。</p>",
     "spotlight": [],
     "speakers": [{
             "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers_main.png",
@@ -14,7 +14,11 @@
         {
             "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers05.png",
             "position": "台數科集團董事長",
-            "name": "廖紫岑"
+            "name": "廖紫岑",
+            "description": [
+                "廖紫岑董事長：「台數科是一艘大船，乘載著各種創新智慧照護服務」，集團透過電視提供視訊關懷、高齡互動節目，以及開設ＡＩ智慧創新投入健康量測的場域。",
+                "秉持著找回電視魂及堅持服務長輩的使命感，台數科除了20幾年來堅持製播良善在地新聞守護地方外，近期與吳念真導演合製《真世代》節目，更獲今年金鐘獎肯定，藉由這樣人文紀實影片與您我一起找回台灣失落的美好，廖董事長始終相信科技的發展是要帶給長輩身心靈安穩的在地安老，而這也是台數科集團近三十年來不變的企業社會責任。"
+            ]
         },
         {
             "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers03.png",
@@ -69,7 +73,10 @@
         {
             "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers07.png",
             "position": "工研院生醫與醫材研究所副所長",
-            "name": "莊曜宇"
+            "name": "莊曜宇",
+            "description": [
+                "莊曜宇副所長為工業技術研究院生醫與醫材研究所副所長暨人工智慧應用策略辦公室副主任。擁有美國哈佛大學癌症生物學博士及國立臺灣大學管理學院商學碩士(EMBA)雙學歷，專長為生物晶片、次世代定序、生物資訊、癌症生物、輻射生物、精準醫學，曾獲臺灣乳癌防治基金會第五屆乳癌傑出研究獎。"
+            ]
         },
         {
             "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/speakers/speakers02.png",
@@ -82,7 +89,7 @@
         }
     ],
     "formState": {
-        "active": true,
+        "active": false,
         "successMessage": "報名成功！",
         "closeMessage": "<p>報名額滿，感謝熱烈支持！</p>",
         "alert": [
@@ -99,11 +106,19 @@
         },
         {
             "title": "工業技術研究院",
-            "description": ""
+            "description": "以視覺辨識技術開發出樂齡智慧肌能鏡，能夠在教練或物理治療師陪同與指導下完成指定系列動作，系統便會進行辨識身體功能性與數據分析，最後提供須加強訓練、改善或運動時需注意的身體部位與課程建議。"
         },
         {
             "title": "長春藤預防醫學健康管理",
             "description": "專業醫療及技術團隊，透過各項專業檢測，結合四大領域：疾病預防、飲食管理、健康管理及身心管理，提供精準個人化健康照護計畫。五大療程服務：精準醫學、SRF優適骨、逆糖減脂、樂活保健、醫學美容，強調讓預防凌駕於治療，如同健康管家一樣給予全方位關懷。"
+        },
+        {
+            "title": "台灣數位光訊科技股份有限公司",
+            "description": "台數科是2015年掛牌上市(股票代碼6464)的有線電視集團，經營區涵蓋臺中、南投、雲林、嘉義、臺南。光纖網路的覆蓋率佔台灣41%，更是亞洲首家跨螢LINE TV的有線電視業者，近年投入銀髮互動關懷的創新服務更是不遺餘力。"
+        },
+        {
+            "title": "Karawalker<br>我的夢想行動家",
+            "description": "吃喝玩樂企劃/媽媽聊天室<br>邀請正在熟齡的我們，帶著細膩的看見，並深入自己的內心，勇敢地成為真實的自己，重新點燃埋藏在深處的真實想望！"
         }
     ],
     "slider": [{
@@ -185,6 +200,11 @@
                     "url": ""
                 },
                 {
+                    "title": "恆安照護集團",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-10.png",
+                    "url": ""
+                },
+                {
                     "title": "台灣顏面針灸醫學會",
                     "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-06.png",
                     "url": ""
@@ -192,6 +212,11 @@
                 {
                     "title": "大人樣",
                     "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-07.png",
+                    "url": ""
+                },
+                {
+                    "title": "Karawalker我的夢想行動家",
+                    "image": "https://events.businesstoday.com.tw/2020/happiness_mature_age/images/organizers/logotype4-11.png",
                     "url": ""
                 }
             ]
