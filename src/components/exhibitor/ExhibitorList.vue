@@ -6,8 +6,8 @@
   >
     <div>
       <article>
-        <h3><span>{{ exhibitor.title }}</span></h3>
-        <p>{{ exhibitor.description }}</p>
+        <h3><span v-html="exhibitor.title" /></h3>
+        <p v-html="exhibitor.description" />
       </article>
     </div>
   </li>
@@ -54,10 +54,13 @@ export default {
   position: relative;
   width: 30%;
   padding-bottom: 35%;
-  margin: 1em 0 0;
+  margin: 1em 5% 0 0;
   background: #f09819;
   color: white;
   cursor: pointer;
+}
+.exhibitor-list:nth-child(3n) {
+  margin-right: 0;
 }
 .exhibitor-list div {
   position: absolute;
@@ -114,6 +117,7 @@ export default {
 @media screen and (max-width: 1024px) {
   .exhibitor-list {
     width: 32%;
+    margin: 1em 2% 0 0;
     padding-bottom: 45%;
   }
 }
@@ -121,7 +125,14 @@ export default {
 @media screen and (max-width: 768px) {
   .exhibitor-list {
     width: 45%;
+    margin: 1em 10% 0 0;
     padding-bottom: 65%;
+  }
+  .exhibitor-list:nth-child(3n) {
+    margin-right: auto;
+  }
+  .exhibitor-list:nth-child(2n) {
+    margin-right: 0;
   }
   .exhibitor-list div {
     padding: 0.6em;
