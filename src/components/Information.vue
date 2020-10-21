@@ -5,7 +5,7 @@
         <h2><span>活動資</span>訊</h2>
       </div>
       <ul>
-        <li data-title="日期">2020年10月29日(四) 9:30-16:30</li>
+        <li data-title="日期">2020年10月29日(四) 9:30-16:10</li>
         <li data-title="地點">格萊天漾大飯店15樓天闊廳<br>(台北市萬華區艋舺大道101號)</li>
       </ul>
       <div class="information-box">
