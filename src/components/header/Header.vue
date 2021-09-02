@@ -66,10 +66,10 @@ export default {
         {
           name: "精彩回顧",
           navList: [
-            {
-              name: "2017",
-              url: "https://event.businesstoday.com.tw/2017/happyelderlyforum/"
-            },
+            // {
+            //   name: "2017",
+            //   url: "https://event.businesstoday.com.tw/2017/happyelderlyforum/"
+            // },
             {
               name: "2018",
               url: "https://event.businesstoday.com.tw/2018/happiness_mature_age/"
